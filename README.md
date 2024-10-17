@@ -1,7 +1,7 @@
 # 👋 Helloworld, I am Alessandro
 
 ## My Personal Webpage
-<div style="text-align:centre"><img src="https://github.com/itsraval/itsraval/blob/main/webpage-screenshot.png" width=75%></div>
+<img src="https://github.com/itsraval/itsraval/blob/main/webpage-screenshot.png" width=75% margin-left=auto margin-right=auto>
 
 
 <!--
