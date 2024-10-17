@@ -1,7 +1,8 @@
 # 👋 Helloworld, I am Alessandro
 
-## My personal Webpage
-<img src="https://github.com/itsraval/itsraval/blob/main/webpage-screenshot.png" width=75%>
+## My Personal Webpage
+<div style="text-align:centre"><img src="https://github.com/itsraval/itsraval/blob/main/webpage-screenshot.png" width=75%></div>
+
 
 <!--
 **itsraval/itsraval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
